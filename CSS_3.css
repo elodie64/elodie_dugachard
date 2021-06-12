@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('polices/coolvetica\ condensed\ rg.ttf');
+}
+
+.formation {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.titre {
+    size: 100px;
+    text-align: center;
+    font-family:'Coolvetica';
+    }
+
+
+.texte {
+    width: 800px;
+    height: 230px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+
+.texte2 {
+    width: 800px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+
+.texte3 {
+    width: 800px;
+    height: 220px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+
+.texte4 {
+    width: 800px;
+    height: 240px;
+    margin-top: 40px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+.texte5 {
+    width: 800px;
+    height: 220px;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+
+.texte6 {
+    width: 800px;
+    height: 150px;
+    margin-top: 75px;
+    margin-left: 70px;
+    border-width:3px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+   
+}
+
+
+
+
+#conteneur {
+    display: flex;
+}
+
+#conteneur2 {
+    display: flex;
+}
+#conteneur3 {
+    display: flex;
+}
+
+#conteneur4 {
+    display: flex;
+}
+
+#conteneur5 {
+    display: flex;
+}
+
+#conteneur6 {
+    display: flex;
+}
+#conteneur7 {
+    display: flex;
+    margin-bottom: 50px;
+}
+img {
+    width: 200px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 60px;
+    margin-left: 200px;
+   
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h4 {
+    color: crimson;
+}
+
+.footer{
+    text-decoration: none;
+    color: crimson;
+    padding-bottom: 50px;
+    margin-left: 650px;
+}
+

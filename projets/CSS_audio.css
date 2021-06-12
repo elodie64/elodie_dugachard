@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('polices/coolvetica\ condensed\ rg.ttf');
+}
+h1 {
+    color: crimson;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+video {
+    margin-left: 30%;
+    width: 600px;
+    height: 400px;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+
+
+
+

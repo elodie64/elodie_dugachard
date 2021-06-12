@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: 'Robotin';
+    src: url('polices/Roboto-Thin.ttf');
+}
+body {
+    font-family: 'Robotin';
+    margin:0px;
+    padding: 0px;
+}
+/*MENU*/
+nav {
+    width: 100%;
+    background-color: #dc143c;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav li {
+    list-style: none;
+    float:left;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #fff
+}
+.Accueil:hover {
+    border-top: 5px solid #fff;
+    background-color: rgb(240, 86, 48) ;
+}
+
+.Qui:hover {
+    border-top: 5px solid #fff;
+    background-color: rgb(240, 86, 48) ;
+}
+
+.Formation:hover {
+    border-top: 5px solid #fff;
+    background-color: rgb(240, 86, 48) ;
+}
+
+.Portfolio:hover {
+    border-top: 5px solid #fff;
+    background-color: rgb(240, 86, 48) ;
+}
+
+.Contact:hover {
+    border-top: 5px solid #fff;
+    background-color: rgb(240, 86, 48) ;
+}
+
+nav li:hover a {
+    padding: 15px 30px 20px 30px;
+}
+
+.menu {
+    display: table;
+    margin: 0 auto;
+}
+
+nav > ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*<ul class="sousparties">
+                    <li><a href=""> Graphisme</a></li>
+                    <li><a href=""> Audiovisuel</a></li>
+                    <li><a href=""> Gestion de projet</a></li>
+                </ul>*/
